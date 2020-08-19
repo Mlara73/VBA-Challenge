@@ -1,15 +1,18 @@
-# VBA-Challenge
-VBA Homework
+# Wall Street Stock's Analysis
 
-Part 1 files:" Inital_Results"
+Multi Year Stock Data Analysis with VBA Scripts:
+
+![StockAnalysis](Images/summary.png)
+
+To follow the results:
+
+Inital_Results:
   - Part1_Results
   - Part1_Screenshot_one_year
 
-Part 2 Files: "Challenge_1_VBAStocks"
-  - Challenge1
+VBAStocks_Part1
+  - Part1 Script
 
-Part 3 Files:"Challenge_2_VBAStocks"
-  - Challenge2
-  - 2014
-  - 2015
-  - 2016
+VBAStocks_Part2
+  - Part2 Script
+  - 2014, 2015, 2016 Results
